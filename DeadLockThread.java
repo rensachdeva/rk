@@ -1,6 +1,6 @@
 /*Question 9a.*/
 package AdvancedJavaTest;
-
+//rkrkrkrrk
 public class DeadLockThread {
 	 
 	    String str1 = "I";
